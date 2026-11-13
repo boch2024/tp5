@@ -34,7 +34,8 @@ Un serveur RMI offre aux clients la possibilite de convertir un montant en euros
 
 ### Capture d'ecran : execution du client
 
-![Execution du client ConversionClient](captures/tp5_1_execution_client.png)
+<img width="1190" height="411" alt="image" src="https://github.com/user-attachments/assets/4293b030-474e-4703-8bbd-397b04a92be5" />
+
 
 ### Resultat
 
